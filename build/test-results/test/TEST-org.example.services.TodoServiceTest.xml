@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.services.TodoServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-16T10:04:42" hostname="SoHeeui-MacBookPro.local" time="0.578">
+  <properties/>
+  <testcase name="searchByIdFailed()" classname="org.example.services.TodoServiceTest" time="0.578"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
